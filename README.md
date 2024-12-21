@@ -23,7 +23,7 @@ Installation
 
 Clone the repository:
 
-bashCopygit clone https://github.com/yourusername/bekcoin-mining-simulator
+bashCopygit clone https://github.com/yourusername/bekcoin-simulation
 cd bekcoin-mining-simulator
 
 Build the project:
